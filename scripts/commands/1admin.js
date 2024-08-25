@@ -19,13 +19,13 @@ module.exports.run = async function({ api,event,args,client,Users,Threads,__GLOB
 const axios = global.nodemodule["axios"];
 const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
-var link =["https://i.postimg.cc/fTV8nkJh/20230726-020132.jpg", 
+var link =[ "https://i.postimg.cc/fTV8nkJh/20230726-020132.jpg", 
             
             "https://i.postimg.cc/cJzJzDjW/Screenshot-20230730-182443.jpg", 
             
 "https://i.postimg.cc/N0yxZjDz/Screenshot-20230730-191933.jpg",
             
-            "https://i.postimg.cc/W39vdtG7/20230727-235934.jpg"];
+            "https://i.postimg.cc/W39vdtG7/20230727-235934.jpg" ];
   
 var callback = () => api.sendMessage({body:`🌻-𝗗𝗢 𝗡𝗢𝗧 𝗧𝗥𝗨𝗦𝗧 𝗧𝗛𝗘 𝗕𝗢𝗧 𝗢𝗣𝗘𝗥𝗔 𝗧𝗢𝗥-🌻\n
 ------------------------------------------------\n🌺-𝗡𝗮𝗺𝗲-🌺       : 𝐌𝐑. 𝐀𝐋𝐕𝐈 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘\n🍁-𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸-🍁 : 𝐌𝐑.𝐁𝐎𝐒𝐒 𝐀𝐋𝐕𝐈 𝐂𝐇𝐎𝐖𝐃𝐇𝐔𝐑𝐘
