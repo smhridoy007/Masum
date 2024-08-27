@@ -21,7 +21,7 @@ const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
 var link =[ "https://i.postimg.cc/1RVNrq7Z/Messenger-creation-15dbf147-078e-4693-8bf0-56b7df6f9f40.jpg", 
             
-            "https://i.postimg.cc/904CncTm/Screenshot-20240827-091422.jpg", 
+            "https://i.postimg.cc/1RVNrq7Z/Messenger-creation-15dbf147-078e-4693-8bf0-56b7df6f9f40.jpg", 
             
 "https://https://i.postimg.cc/1RVNrq7Z/Messenger-creation-15dbf147-078e-4693-8bf0-56b7df6f9f40.jpg",
             
