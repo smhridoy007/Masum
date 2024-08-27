@@ -1,5 +1,5 @@
 module.exports.config = {
-    name: "out",
+    name: "goo'",
     version: "1.0.0",
     permssion: 2,
     premium: false,
@@ -7,7 +7,7 @@ module.exports.config = {
     credits: "ALVI",
     description: "Leave the group",
     category: "Admin",
-    usages: "goo' [id]",
+    usages: "out [id]",
     cooldowns: 10,
 };
 
