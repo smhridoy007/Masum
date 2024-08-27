@@ -11,7 +11,7 @@ module.exports.config = {
   name: "🥹",
   version: "1.0.0",
   permssion: 0,
-  credits: "Islamick  Cyber Chat",
+  credits: "ALVI",
   prefix:true,
   description: "auto reply to 🥹",
   category: "noprefix",
