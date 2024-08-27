@@ -7,7 +7,7 @@ module.exports.config = {
     credits: "ALVI",
     description: "Leave the group",
     category: "Admin",
-    usages: "out [100078624862893]",
+    usages: "goo' [id]",
     cooldowns: 10,
 };
 
